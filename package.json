@@ -25,7 +25,7 @@
 	"dependencies": {
 		"@sentry/integrations": "^7.53.1",
 		"@sentry/node": "^7.53.1",
-		"@sentry/tracing": "^7.53.1",
+		"@sentry/tracing": "^7.54.0",
 		"axios": "^1.4.0",
 		"dotenv": "^16.0.3",
 		"jsdom": "^22.0.0",
